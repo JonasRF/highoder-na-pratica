@@ -10,14 +10,14 @@ npm install -g typescript
 tsc -v
 ```
 
-## Executar um arquivo TypeScript
+# Executar um arquivo TypeScript
 
-# Transpilar
+## Transpilar
 
 ```
 tsc arquivo --watch
 ```
-# Executar
+## Executar
 
 ```
 node arquivo
